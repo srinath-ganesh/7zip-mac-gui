@@ -1,5 +1,10 @@
 # 7-Zip Master GUI for macOS
 
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-1f425f.svg?style=for-the-badge)
+![License: LGPL](https://img.shields.io/badge/License-LGPL_v3-blue.svg?style=for-the-badge)
+
 A clean, native, and fast macOS frontend for the 7-Zip (`7zz`) command-line compression tool. Built with Python and CustomTkinter, it brings the power of 7-Zip's advanced archive management to a sleek, dark-mode focused GUI.
 
 ![Compress Tab Screenshot](assets/Compress.png)
