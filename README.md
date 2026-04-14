@@ -2,8 +2,8 @@
 
 A clean, native, and fast macOS frontend for the 7-Zip (`7zz`) command-line compression tool. Built with Python and CustomTkinter, it brings the power of 7-Zip's advanced archive management to a sleek, dark-mode focused GUI.
 
-![Compress Tab Screenshot](link-to-your-compress-screenshot-here)
-![Extract Tab Screenshot](link-to-your-extract-screenshot-here)
+![Compress Tab Screenshot](assets/Compress.png)
+![Extract Tab Screenshot](assets/Extract.png)
 
 ## Features
 
